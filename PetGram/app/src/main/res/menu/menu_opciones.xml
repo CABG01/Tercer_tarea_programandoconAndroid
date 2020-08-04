@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/opciones"
+        android:title="@string/menuOpciones"
+        android:orderInCategory="103"
+        ></item>
+
+    <item
+        android:id="@+id/informacion"
+        android:title="@string/menuInformacion"
+        android:orderInCategory="102"
+        ></item>
+
+</menu>

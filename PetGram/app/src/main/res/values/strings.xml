@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PetGram</string>
+    <string name="menuOpciones">Opciones</string>
+    <string name="menuInformacion">Informacion</string>
+</resources>
