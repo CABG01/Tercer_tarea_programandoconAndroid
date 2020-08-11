@@ -1,4 +1,4 @@
-package com.cesarbarragan.petgram;
+package com.cesarbarragan.petgram.POJO;
 
 public class ContactoPerritos {
 

@@ -1,8 +1,6 @@
-package com.cesarbarragan.petgram;
+package com.cesarbarragan.petgram.Adaptadores;
 
 import android.app.Activity;
-import android.opengl.Visibility;
-import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.ImageButton;
@@ -12,6 +10,9 @@ import android.widget.Toast;
 
 import androidx.annotation.NonNull;
 import androidx.recyclerview.widget.RecyclerView;
+
+import com.cesarbarragan.petgram.POJO.ContactoPerritos;
+import com.cesarbarragan.petgram.R;
 
 import java.util.ArrayList;
 
